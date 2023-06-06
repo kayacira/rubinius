@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Updated SQL Query Plot Code (#8120)
