@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
