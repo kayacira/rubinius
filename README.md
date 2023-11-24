@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
