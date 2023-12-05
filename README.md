@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Fix RTDETR generate anchor grid out of boundary (#7247)
