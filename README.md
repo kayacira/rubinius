@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Avoid creating -hub dir without processing images (#8334)
