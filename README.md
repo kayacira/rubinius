@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Updated SQL Query Plot Code (#8120)
