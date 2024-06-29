@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Update docs building code (#7601)
