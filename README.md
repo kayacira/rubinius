@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Move Google Drive to slow tests (#8163)
