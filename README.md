@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Update neural-magic.md (#7347)
